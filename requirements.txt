@@ -1,0 +1,5 @@
+torch
+torchvision
+networkx
+# For torchlens, directly from github:
+git+https://github.com/johnmarktaylor91/torchlens.git
